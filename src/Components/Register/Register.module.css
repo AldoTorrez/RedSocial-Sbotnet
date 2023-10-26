@@ -1,0 +1,18 @@
+.container_register{
+   background-color: black;
+   width: 100%;
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+}
+
+.container_presentation{
+    height: 90vh;
+}
+
+.container_copyright{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
