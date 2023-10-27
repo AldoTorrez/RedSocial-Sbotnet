@@ -35,10 +35,3 @@ export default function Register(){
         </div>
     )
 }
-
-
-
-
-
-
-{/* <Link to="me">My Profile</Link> */}
