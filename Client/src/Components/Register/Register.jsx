@@ -1,6 +1,6 @@
 import logoName from '../../assets/sbotnetxt.png'
 import logo from '../../assets/sbotnet-izq.png'
-import style from '../Register/Register.module.css'
+import style from './Register.module.css'
 import { Link } from 'react-router-dom'
 
 export default function Register(){
