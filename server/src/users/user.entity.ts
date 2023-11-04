@@ -39,4 +39,7 @@ export class User {
 
     @Column()
     profilePicture: string
+
+    @Column()
+    description: string
 }
