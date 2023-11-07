@@ -3,6 +3,6 @@ import { Injectable } from '@nestjs/common';
 @Injectable()
 export class UsersService {
     findAll(): string{
-        return 'este viene desde un servicio'
+        return 'este es la respuesta de un servidor basico'
     }
 }
